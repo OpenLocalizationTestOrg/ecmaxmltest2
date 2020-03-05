@@ -1,0 +1,559 @@
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-US" trgLang="">
+  <file id="23b7f02f">
+    <unit id="course.title" comment="Title for course" courseUrl="https://preview.education.microsoft.com/course/23b7f02f/overview">
+      <segment>
+        <source>Getting Started with OneNote</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.description" comment="Description of the course">
+      <segment>
+        <source>Learning is more powerful and dynamic with tools that are already right in front of you – and it’s up to educators to impress this on students in the classroom. 
+
+With Microsoft OneNote, educators can create digital notebooks that support academic standards and education outcomes across disciplines and tasks, such as writing, reading, mathematics, science, history, CTE, and elective courses. Students may use OneNote across content areas and grade levels, and use OneNote to compile and organize unstructured information, research, and content. OneNote also supports research, collaboration, information management, communication, note taking, journaling, reflective writing, and academic requirements.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.overviewSection.title" comment="Course overview title">
+      <segment>
+        <source>Overview</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.overviewSection.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">Learning is more powerful and dynamic with tools that are already right in front of you – and it’s up to educators to impress this on students in the classroom.</pc>
+          <pc id="1" htmlTag="p"> With Microsoft OneNote, educators can create digital notebooks that support academic standards and education outcomes across disciplines and tasks, such as writing, reading, mathematics, science, history, CTE, and elective courses. Students may use OneNote across content areas and grade levels, and use OneNote to compile and organize unstructured information, research, and content. OneNote also supports research, collaboration, information management, communication, note taking, journaling, reflective writing, and academic requirements.</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.overviewSection.module.2.learningobjective" comment="Content for module 2">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Learning objectives</pc>
+          <pc id="2" htmlTag="ul">
+            <pc id="0" htmlTag="li">Participants will learn how OneNote is organized and how to quickly find materials within notebooks</pc>
+            <pc id="1" htmlTag="li">Participants will learn to create, add, and share pages and content</pc>
+            <pc id="2" htmlTag="li">Participants will learn ways to utilize digital ink and the replay features within the OneNote app</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.1.title" comment="Title for section 1" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/0">
+      <segment>
+        <source>Getting started with OneNote for Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.1.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">Watch this to find out more about how OneNote for Windows 10 can help teachers:</pc>
+          <pc id="1" htmlTag="ul">
+            <pc id="0" htmlTag="li">Stay organized</pc>
+            <pc id="1" htmlTag="li">Capture ideas</pc>
+            <pc id="2" htmlTag="li">Access from any device</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.1.module.3.image.title" comment="Image title for module 3" imageUrl="https://az801952.vo.msecnd.net/uploads/0245449b-3a7b-4e8e-8cf0-b15df40a0d41.jpg">
+      <segment>
+        <source>A graphic containing the following words: Application Alley You can create notebooks for personal and professional use. Consider creating a notebook for: . Your household - keep track of budgets, purchases, holiday shopping lists, children's activities and more . A recipe notebook - collect all your favorite recipes in one place so you can easily access them when you are at the grocery store Lesson Planner - organize materials for all of your units in one notebook Professional Development - keep track of all your training materials, conference presentations and take-a-ways Microsoft</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.1.module.4.text" comment="Content for module 4">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Reflection</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.1.module.5.text" comment="Content for module 5">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">What aspects of organizing words does OneNote mimic?</pc>
+          <pc id="1" htmlTag="p">What are some ways you might organize your sections and pages?</pc>
+          <pc id="2" htmlTag="p">What topics might be an easy place to start a notebook or section?
+            <ph htmlTag="br"></ph>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.2.title" comment="Title for section 2" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/1">
+      <segment>
+        <source>Getting to know OneNote for Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.2.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">In this tutorial to learn more about how to:</pc>
+          <pc id="1" htmlTag="ul">
+            <pc id="0" htmlTag="li">Add multimedia content </pc>
+            <pc id="1" htmlTag="li">Find notes </pc>
+            <pc id="2" htmlTag="li">Print or export work </pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.2.module.3.image.title" comment="Image title for module 3" imageUrl="https://az801952.vo.msecnd.net/uploads/aa00e896-50c5-4027-89ae-5ef9601c4171.jpg">
+      <segment>
+        <source>A graphic containing the following words: Application Alley OneNote pages can be so much richer than a stagnant textbook page. Without ever needing to leave OneNote students can experience all of the important concepts through many methods of content delivery. You can create one vibrant page that: Contains a YouTube video explaining a concept . A GeoGebra interactive that reinforces the concept . Some notes you created . A diagram . Exercises for the students to complete Microsoft</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.2.module.4.text" comment="Content for module 4">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Reflection</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.2.module.5.text" comment="Content for module 5">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">What are the benefits of being able to start writing or typing anywhere on the page?</pc>
+          <pc id="1" htmlTag="p">What are the benefits of being able to insert pictures and media anywhere on the page?</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.3.title" comment="Title for section 3" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/2">
+      <segment>
+        <source>Getting the most out of OneNote for Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.3.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">This module will walk you through how to:</pc>
+          <pc id="1" htmlTag="ul">
+            <pc id="0" htmlTag="li">Use digital ink</pc>
+            <pc id="1" htmlTag="li">Reorganize materials</pc>
+            <pc id="2" htmlTag="li">Share your work</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.3.module.3.image.title" comment="Image title for module 3" imageUrl="https://az801952.vo.msecnd.net/uploads/79b1eeef-9279-49a6-a018-d925e4dbadc3.jpg">
+      <segment>
+        <source>A graphic containing the following words: Application Alley Digital Ink allows teachers to: . Grade within OneNote . Offer written feedback on students' work . Include diagrams and other visuals that enhance student learning Digital ink allows students to: Solve equations in math and science within OneNote (keeping all materials in one location and decreasing their chances of losing assignments) . Draw timelines, diagrams, and other visuals to demonstrate their understanding . Handwrite notes and increase their retention Microsoft</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.3.module.4.text" comment="Content for module 4">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Reflection</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.3.module.5.text" comment="Content for module 5">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">How much time do teachers spend looking for files in old email threads?</pc>
+          <pc id="1" htmlTag="p">How does OneNote's organization save teachers time?</pc>
+          <pc id="2" htmlTag="p">What is the benefit to being able to access information from all of your devices?</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.4.title" comment="Title for section 4" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/3">
+      <segment>
+        <source>Digital Ink</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.4.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">There are many known benefits to handwriting notes, but in the OneNote Windows 10 App those benefits extend beyond the basics of a pencil and paper. All of those notes are automatically saved in OneNote, so there's no need to keep track of a physical piece of paper. Your notes are always there, from any device, in any location.</pc>
+          <pc id="1" htmlTag="p">The Draw tab has many options for different types of writing utensils: pens, pencils, and even glitter pens. You can choose the thickness and colors by selecting the down arrow next to each choice. There is an erase button, because everyone makes mistakes. But there is also another way to backtrack without having to erase. In the upper right quadrant, there are two arrows. The one of the left allows you to go backward in time, retracing what was most recently put on the page. The other arrow allows you move forward again. This allows teachers to see exactly what is happening in a student's thought process and they can easily identify where a breakdown in thought may have occurred. For an even faster overview, teachers can select some content, touch the 
+            <pc id="1" htmlTag="strong">Replay</pc> button (in the View tab) and a small video from start to finish of that section will play. Don't we all wish we could rewind or fast forward once in a while?!
+          </pc>
+          <pc id="2" htmlTag="p">Teachers and students are finding it easier to take notes with OneNote than with a traditional pencil and paper. To learn more about schools that love digital inking, check this out:</pc>
+          <pc id="3" htmlTag="p"> 
+            <pc id="1" htmlTag="a" href="https://blogs.office.com/en-us/2017/05/18/note-taking-made-easier-for-everyone-redesigning-onenote/" target="_blank">Note-taking made easier for everyone - redesigning OneNote</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.4.module.2.image.title" comment="Image title for module 2" imageUrl="https://az801952.vo.msecnd.net/uploads/4b3cf5c4-9243-4968-901c-ac1e0ec7892e.jpg">
+      <segment>
+        <source>A graphic containing the following words: Application Alley Digital ink with replay allows you to create a demo for: Solving an equation . Diagramming a sentence . Editing a paragraph for clarity, conciseness, and grammar Microsoft</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.4.module.3.text" comment="Content for module 3">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Reflection</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.4.module.4.text" comment="Content for module 4">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">When would you encourage students to use the "playback" feature?</pc>
+          <pc id="1" htmlTag="p">Would this be beneficial for a teacher looking at a student's homework assignment?</pc>
+          <pc id="2" htmlTag="p">Do you think teachers would use this as they take notes for a class or meeting?</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.title" comment="Title for section 5" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/4">
+      <segment>
+        <source>A content library brimming with rich resources</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.1.text" comment="Content for module 1">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">If your notebook is the go-to for students to look for materials, they will be there when they have to be there. If your notebook is filled with rich engaging materials, students might even stay there longer. Engagement is a critical factor for student learning, and it is easy to provide that with pages that include:</pc>
+          <pc id="1" htmlTag="ul">
+            <pc id="0" htmlTag="li">Files, printouts of files, and pictures</pc>
+            <pc id="1" htmlTag="li">Embedded video</pc>
+            <pc id="2" htmlTag="li">Embedded online tools (like Padlet, or Geogebra)</pc>
+            <pc id="3" htmlTag="li">Easy to find, easy to follow pages, possibly created by a template</pc>
+          </pc> 
+          <pc id="3" htmlTag="p">Most teachers already have the materials they know will be helpful for students. Instead of printing them on paper and passing them out, or laminating them, consider storing them in your Content Library. Even something as simple as a list can be referred to numerous times in some classes. By the way, if you're a list lover, try reading this:</pc>
+          <pc id="4" htmlTag="p"> 
+            <pc id="1" htmlTag="a" href="https://blogs.office.com/en-us/2017/06/05/the-humble-checkbox/" target="_blank">The Humble Checkbox</pc>
+            <ph htmlTag="br"></ph>
+          </pc>
+          <pc id="5" htmlTag="p">Creating rich resources for your Content Library can be daunting at first, but sometimes it's nice to see how others have made it happen. If you're one of those types of learners, look at 
+            <pc id="1" htmlTag="a" href="https://sway.com/rq8btwPwKTUfRZ2F" target="_blank">How to Turn a Teacher into a OneNote Ninja</pc> and notice the examples of how other teachers have utilized OneNote in their classrooms. It might not be long before you become a OneNote Ninja yourself!
+            <ph htmlTag="br"></ph>
+          </pc>
+          <pc id="6" htmlTag="p">
+            <pc id="0" htmlTag="a" href="https://sway.com/rq8btwPwKTUfRZ2F" target="_blank">How to Turn a Teacher into a OneNote Ninja</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.2.image.title" comment="Image title for module 2" imageUrl="https://az801952.vo.msecnd.net/uploads/27f10b36-b705-46a7-9094-9fa43c067577.jpg">
+      <segment>
+        <source>A graphic containing the following words: Application Alley Template ideas . Daily Lesson plans . Achievement certificates . Weekly plans . Poems . Storyboard . Handwriting templates for tracing . Mind maps . Geometry shapes . Presentations . Number lines . Scientific report . Writing conference Scientific experiment . Rubrics . Vocabulary analysis Microsoft</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.3.text" comment="Content for module 3">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">Reflection</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.4.text" comment="Content for module 4">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">How might the Content Library be a unique place for students in your class?</pc>
+          <pc id="1" htmlTag="p">What kinds of media might you add to make your Content Library a go-to place for students?</pc>
+          <pc id="2" htmlTag="p">Once your Content Library is complete for one class, would it take much to alter it for next year's class?</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.5.text" comment="Content for module 5">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="p">This course covers features in the OneNote Windows 10 app. To see which features are available in other OneNote versions, visit this site: 
+            <pc id="1" htmlTag="a" href="https://support.office.com/en-us/article/Differences-in-OneNote-ac5a517f-5dad-44a5-8ad6-b6e4ec51dba1?ui%3Den-US%26rs%3Den-US%26ad%3DUS" target="_blank">The differences in OneNote</pc>
+          </pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.6.text" comment="Content for module 6">
+      <segment>
+        <source>
+          <pc id="0" htmlTag="h2">For more examples of how teachers have been using OneNote in their classrooms, look at these Real World Sample Notebooks:</pc>
+        </source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.section.5.module.7.grid.module.7-1-1.text" comment="Content for module 7-1-1">
+      <segment>
+        <source/>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.title" comment="Title for quiz 6" sectionUrl="https://preview.education.microsoft.com/course/23b7f02f/5">
+      <segment>
+        <source>Quiz</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.1.radio.text" comment="Question text for question 1">
+      <segment>
+        <source>The Windows 10 OneNote App can be accessed from _____.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.1.radio.answer.1.text" comment="Possible answer #1 for question 1">
+      <segment>
+        <source>A tablet with Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.1.radio.answer.2.text" comment="Possible answer #2 for question 1">
+      <segment>
+        <source>A phone with Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.1.radio.answer.3.text" comment="Possible answer #3 for question 1">
+      <segment>
+        <source>A computer with Windows 10</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.1.radio.answer.4.text" comment="Possible answer #4 for question 1">
+      <segment>
+        <source>All of the above</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.2.radio.text" comment="Question text for question 2">
+      <segment>
+        <source>OneNote organizes materials through _______.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.2.radio.answer.1.text" comment="Possible answer #1 for question 2">
+      <segment>
+        <source>Lists, Binders, and Pages</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.2.radio.answer.2.text" comment="Possible answer #2 for question 2">
+      <segment>
+        <source>Notebooks, Sections, and Pages</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.2.radio.answer.3.text" comment="Possible answer #3 for question 2">
+      <segment>
+        <source>Planners, Libraries, and Lesson Plans</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.2.radio.answer.4.text" comment="Possible answer #4 for question 2">
+      <segment>
+        <source>Books, Folders, and Sticky notes</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.3.radio.text" comment="Question text for question 3">
+      <segment>
+        <source>An original poem by a poet that you want your students to have read-only access to would probably be housed in the ___.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.3.radio.answer.1.text" comment="Possible answer #1 for question 3">
+      <segment>
+        <source>Collaboration Space</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.3.radio.answer.2.text" comment="Possible answer #2 for question 3">
+      <segment>
+        <source>Content Library</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.3.radio.answer.3.text" comment="Possible answer #3 for question 3">
+      <segment>
+        <source>Individual student pages</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.4.radio.text" comment="Question text for question 4">
+      <segment>
+        <source>OneNote can locate any word on any page in any of your notebooks with the ________ function.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.4.radio.answer.1.text" comment="Possible answer #1 for question 4">
+      <segment>
+        <source>Looking</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.4.radio.answer.2.text" comment="Possible answer #2 for question 4">
+      <segment>
+        <source>Hunt</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.4.radio.answer.3.text" comment="Possible answer #3 for question 4">
+      <segment>
+        <source>Search</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.4.radio.answer.4.text" comment="Possible answer #4 for question 4">
+      <segment>
+        <source>Where is it?</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.5.radio.text" comment="Question text for question 5">
+      <segment>
+        <source>It is not possible to export a page to Word.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.5.radio.answer.1.text" comment="Possible answer #1 for question 5">
+      <segment>
+        <source>True</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.5.radio.answer.2.text" comment="Possible answer #2 for question 5">
+      <segment>
+        <source>False</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.text" comment="Question text for question 6">
+      <segment>
+        <source>OneNote pages can contain the following types of materials:</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.answer.1.text" comment="Possible answer #1 for question 6">
+      <segment>
+        <source>Videos</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.answer.2.text" comment="Possible answer #2 for question 6">
+      <segment>
+        <source>Images</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.answer.3.text" comment="Possible answer #3 for question 6">
+      <segment>
+        <source>Handwritten notes</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.answer.4.text" comment="Possible answer #4 for question 6">
+      <segment>
+        <source>Other Apps</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.6.radio.answer.5.text" comment="Possible answer #5 for question 6">
+      <segment>
+        <source>All of the above</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.7.radio.text" comment="Question text for question 7">
+      <segment>
+        <source>Two people who have access to the same notebook can both make changes on the same page at the same time and each will see the other person's contributions and changes in real time.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.7.radio.answer.1.text" comment="Possible answer #1 for question 7">
+      <segment>
+        <source>True</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.7.radio.answer.2.text" comment="Possible answer #2 for question 7">
+      <segment>
+        <source>False</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.8.radio.text" comment="Question text for question 8">
+      <segment>
+        <source>OneNote's Replay feature in the View tab allows</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.8.radio.answer.1.text" comment="Possible answer #1 for question 8">
+      <segment>
+        <source>students to start and stop YouTube videos so that they can view it at their own pace.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.8.radio.answer.2.text" comment="Possible answer #2 for question 8">
+      <segment>
+        <source>students to respond back to a teacher's question in an email.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.8.radio.answer.3.text" comment="Possible answer #3 for question 8">
+      <segment>
+        <source>students and teachers to observe the steps that were taken to create what's on the page.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.8.radio.answer.4.text" comment="Possible answer #4 for question 8">
+      <segment>
+        <source>teachers to be able to watch their favorite episode while grading papers.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.9.radio.text" comment="Question text for question 9">
+      <segment>
+        <source>You cannot create a template in OneNote.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.9.radio.answer.1.text" comment="Possible answer #1 for question 9">
+      <segment>
+        <source>True</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.9.radio.answer.2.text" comment="Possible answer #2 for question 9">
+      <segment>
+        <source>False</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.10.radio.text" comment="Question text for question 10">
+      <segment>
+        <source>You can embed online tools onto a page in OneNote.</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.10.radio.answer.1.text" comment="Possible answer #1 for question 10">
+      <segment>
+        <source>True</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="course.quiz.6.question.10.radio.answer.2.text" comment="Possible answer #2 for question 10">
+      <segment>
+        <source>False</source>
+        <target></target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
